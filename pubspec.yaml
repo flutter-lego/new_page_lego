@@ -1,7 +1,7 @@
 name: new_page_lego
 description: "lego is all you need"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/new_page_lego
 
 version: 1.0.0
 
@@ -27,4 +27,3 @@ flutter:
 
 topics:
   - lego
-  - view_lego
